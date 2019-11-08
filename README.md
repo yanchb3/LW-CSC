@@ -37,10 +37,9 @@ Figure 1. Architecture of the proposed Learning Weighted Convolutional Sparse Co
 1. (optional) Download the model for our paper and place it in './model'.
 2. Run the following script to train.
 
-		'''bash 
-		bash train.sh
-		'''
-
+    ```bash
+    bash train.sh
+    ```
 
 ## Test
 ### Quick start

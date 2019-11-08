@@ -52,7 +52,7 @@ Run xxx.m to reproduce PSNR/SSIM/IFCs for paper.
 ## Results
 ### Quantitative Results
     
-Table 1. Average PSNR/SSIM/IFCs for scale factor x2, x3 and x4  on datasets Set5, Set14, Urban100 and BSD100. The best results appear  **in bold**.
+Table 1. Average PSNR/SSIM/IFCs for scale factor x2, x3 and x4  on common benchmarks. The best results appear  **in bold**.
 <div  align="center">    
 <img src="Figs/Quantitative_results.png" width = "800"  alt="lwista" align=center />   
 </div>

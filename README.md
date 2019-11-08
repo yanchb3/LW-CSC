@@ -5,7 +5,7 @@ This repository is for LW-CSC.
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Dependencies and Installation](#dependencies)
+2. [Dependencies](#dependencies)
 3. [Train](#train)
 4. [Test](#test)
 5. [Results](#results)
@@ -23,7 +23,7 @@ Over the past few decades, Sparse Coding (SC) has been successfully applied in a
 Figure 1. Architecture of the proposed Learning Weighted Convolutional Sparse Coding (LW-CSC).
 </div>
 
-## Dependencies and Installation
+## Dependencies
 * Python 2 (Recommend to use [Anaconda](https://www.anaconda.com/distribution/#linux))
 * [Pytorch 1.0.1](https://pytorch.org/)
 * NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)

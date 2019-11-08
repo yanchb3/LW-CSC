@@ -57,6 +57,7 @@ Table 1. Average PSNR/SSIM/IFCs for scale factor x2, x3 and x4  on datasets Set5
 <div  align="center">    
 <img src="Figs/Quantitative_results.png" width = "800"  alt="lwista" align=center />   
 </div>
+
 ### Visual Results
 <div  align="center">    
 <img src="Figs/urban092x3_urban093x4.png" width = "700"  alt="lwista" align=center />   
@@ -83,7 +84,10 @@ Table 1. Average PSNR/SSIM/IFCs for scale factor x2, x3 and x4  on datasets Set5
 </div>
 
 </br>
+
 **For more investigation, please refer to our [main paper.]()   
 All of these comparisons mainly show the eﬀectiveness of our proposed method.**
 </br>
+
+
 ## Acknowledgements
